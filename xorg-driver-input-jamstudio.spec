@@ -1,5 +1,5 @@
 Summary:	X.org input driver for JamStudio devices
-Summary(pl):	Sterownik wej∂ciowy X.org dla urz±dzeÒ JamStudio
+Summary(pl.UTF-8):   Sterownik wej≈õciowy X.org dla urzƒÖdze≈Ñ JamStudio
 Name:		xorg-driver-input-jamstudio
 Version:	1.1.0
 Release:	0.1
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 X.org input driver for JamStudio devices. This driver supports the
 KB-Gear JamStudio pentablet.
 
-%description -l pl
-Sterownik wej∂ciowy X.org dla urz±dzeÒ JamStudio. Obs≥uguje pentablety
+%description -l pl.UTF-8
+Sterownik wej≈õciowy X.org dla urzƒÖdze≈Ñ JamStudio. Obs≈Çuguje pentablety
 KB-Gear JamStudio.
 
 %prep
