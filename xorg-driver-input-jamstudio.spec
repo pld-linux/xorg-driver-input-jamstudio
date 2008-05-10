@@ -1,12 +1,12 @@
 Summary:	X.org input driver for JamStudio devices
 Summary(pl.UTF-8):	Sterownik wejściowy X.org dla urządzeń JamStudio
 Name:		xorg-driver-input-jamstudio
-Version:	1.1.0
+Version:	1.2.0
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-input-jamstudio-%{version}.tar.bz2
-# Source0-md5:	a32e36a24545791a3408cdc5563b6523
+# Source0-md5:	8011f90d7dd801d26e8c3dd058633978
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
